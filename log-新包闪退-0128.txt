@@ -1,0 +1,6882 @@
+¡¾2021-01-28 08:51:13:251¡¿User_Case:9
+
+¡¾2021-01-28 08:51:13:751¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:51:14:332¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xA9 0 19109756
+UART_IRQ done
+
+¡¾2021-01-28 08:51:33:577¡¿User_Case:9
+
+¡¾2021-01-28 08:51:34:077¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:51:54:135¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 08:52:09:178¡¿User_Case:9
+PIR_Rise=31970
+
+¡¾2021-01-28 08:52:09:694¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:10:178¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:10:678¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:11:178¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:11:693¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:12:178¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:12:678¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:13:177¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:13:693¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:14:177¡¿User_Case:11
+User_Case:9
+PIR_Rise=31975
+
+¡¾2021-01-28 08:52:14:677¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:15:177¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:15:396¡¿User_Case:9
+
+¡¾2021-01-28 08:52:15:927¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:16:427¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:16:927¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:17:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:17:926¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:18:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:18:926¡¿User_Case:11
+User_Case:9
+PIR_Rise=31980
+
+¡¾2021-01-28 08:52:19:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:19:926¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:20:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:20:926¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:21:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:21:925¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 08:52:22:425¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:52:27:721¡¿User_Case:9
+PIR_Rise=31989
+
+¡¾2021-01-28 08:52:28:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:28:721¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:29:221¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:29:720¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:30:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:30:720¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:31:220¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:31:720¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:52:32:204¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:31994
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 08:52:32:314¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 08:52:33:329¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19111112
+
+POWER_UP_DSP
+
+¡¾2021-01-28 08:52:33:938¡¿JPGPub jpeg_all :22134  22134
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 19111802TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 08:52:34:048¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:53:15:751¡¿User_Case:9
+
+¡¾2021-01-28 08:53:16:251¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:53:16:767¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:53:25:155¡¿User_Case:9
+
+¡¾2021-01-28 08:53:25:655¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:53:32:138¡¿User_Case:9
+
+¡¾2021-01-28 08:53:32:622¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:54:23:735¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 08:54:27:469¡¿User_Case:9
+PIR_Rise=32109
+
+¡¾2021-01-28 08:54:27:969¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:28:469¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:28:969¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:29:484¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:29:968¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:30:468¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:30:968¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:31:484¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:31:968¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:32:483¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32114
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 08:54:33:577¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19113077
+
+POWER_UP_DSP
+
+¡¾2021-01-28 08:54:34:186¡¿JPGPub jpeg_all :20148  20148
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 19113752TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:54:34:296¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:54:34:405¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:54:43:615¡¿User_Case:9
+
+¡¾2021-01-28 08:54:44:130¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:54:44:615¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:55:44:641¡¿User_Case:1
+RunTime:1020 Min 501
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+Voltage=7.618572 100%
+
+¡¾2021-01-28 08:55:45:187¡¿TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 08:55:45:671¡¿SSID:htt RSSI:-45
+
+¡¾2021-01-28 08:55:56:149¡¿User_Case:9
+PIR_Rise=32197
+
+¡¾2021-01-28 08:55:56:648¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:57:148¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:57:648¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:58:147¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:58:647¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:59:162¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:55:59:646¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:00:146¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:00:646¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:01:161¡¿User_Case:11
+User_Case:9
+PIR_Rise=32202
+
+¡¾2021-01-28 08:56:01:645¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:02:145¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:02:644¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 08:56:03:160¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:56:17:135¡¿User_Case:9
+PIR_Rise=32218
+
+¡¾2021-01-28 08:56:17:619¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:18:118¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:18:618¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:19:133¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:19:617¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:20:117¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:20:617¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:21:132¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:56:21:632¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32223
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 08:56:21:741¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 08:56:22:725¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19116121
+
+POWER_UP_DSP
+
+¡¾2021-01-28 08:56:23:334¡¿JPGPub jpeg_all :16309  16309
+Send_JPEG_Done 0 19116789
+PowerOFF_DSP
+ShutDown(JTCP_Task:66_1 
+NetAPP_ACK:66_1
+PG_SendTCP_Task:66_1 
+NetAPP_ACK:66_1
+)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:56:23:443¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:56:54:126¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 08:57:15:596¡¿User_Case:9
+
+¡¾2021-01-28 08:57:16:096¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:16:595¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:57:24:949¡¿User_Case:9
+PIR_Rise=32286
+
+¡¾2021-01-28 08:57:25:433¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:25:933¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:26:448¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:26:948¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:27:432¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:27:932¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:28:447¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:28:947¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:29:431¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:29:946¡¿User_Case:11
+User_Case:9
+PIR_Rise=32291
+
+¡¾2021-01-28 08:57:30:446¡¿User_Case:11
+User_Case:9
+User_Case:9
+
+¡¾2021-01-28 08:57:30:992¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:31:492¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:31:991¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:32:491¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:32:991¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:33:490¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:33:990¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:34:505¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32296
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 08:57:34:615¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 08:57:35:598¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19118085
+
+POWER_UP_DSP
+
+¡¾2021-01-28 08:57:36:207¡¿JPGPub jpeg_all :15991  15991
+Send_JPEG_Done 0 19118752
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPTCP_Task:66_1 
+NetAPP_ACK:66_1
+G_Send)TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:57:36:317¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:57:38:066¡¿User_Case:9
+
+¡¾2021-01-28 08:57:38:565¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:57:39:065¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:57:44:311¡¿User_Case:9
+
+¡¾2021-01-28 08:57:44:811¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:57:51:650¡¿User_Case:9
+
+¡¾2021-01-28 08:57:52:166¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 08:58:46:291¡¿User_Case:9
+PIR_Rise=32368
+
+¡¾2021-01-28 08:58:46:806¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:47:306¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:47:805¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:48:305¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:48:805¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:49:304¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:49:804¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:50:304¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:50:803¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:51:303¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:51:615¡¿User_Case:9
+PIR_Rise=32373
+
+¡¾2021-01-28 08:58:52:115¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:52:615¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:53:114¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:53:614¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:54:114¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:54:613¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:55:113¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:55:613¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:58:56:128¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32378
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 08:58:56:237¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 08:58:57:221¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19120074
+
+POWER_UP_DSP
+
+¡¾2021-01-28 08:58:57:830¡¿JPGPub jpeg_all :16865  16865
+Send_JPEG_Done 0 19120743
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:58:57:939¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:58:58:049¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 08:59:23:592¡¿User_Case:9
+
+¡¾2021-01-28 08:59:23:873¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 08:59:24:092¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 08:59:24:576¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:00:24:591¡¿User_Case:1
+RunTime:1021 Min 503
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+
+¡¾2021-01-28 09:00:58:940¡¿User_Case:9
+PIR_Rise=32500
+
+¡¾2021-01-28 09:00:59:440¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:00:59:940¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:00:440¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:00:940¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:01:440¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:01:940¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:02:440¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:02:940¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:03:439¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32505
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:01:03:549¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:01:04:549¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19121999
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:01:05:189¡¿JPGPub jpeg_all :18458  18458
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPETCP_Task:66_1 
+NetAPP_ACK:66_1
+G_Done 0 19122723
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:01:05:298¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:01:05:408¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:01:10:525¡¿User_Case:9
+
+¡¾2021-01-28 09:01:11:025¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:01:11:509¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:01:22:506¡¿User_Case:9
+
+¡¾2021-01-28 09:01:23:022¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:01:52:609¡¿User_Case:9
+
+¡¾2021-01-28 09:01:53:109¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:01:54:171¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:02:00:091¡¿User_Case:9
+
+¡¾2021-01-28 09:02:00:607¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:02:12:668¡¿User_Case:9
+PIR_Rise=32574
+
+¡¾2021-01-28 09:02:13:168¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:13:652¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:14:167¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:14:667¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:15:167¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:15:651¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:16:167¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:16:667¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:17:182¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32579
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:02:17:292¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:02:18:276¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19123993
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:02:18:916¡¿JPGPub jpeg_all :18494  18494
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPTCP_Task:66_1 
+NetAPP_ACK:66_1
+EG_Done 0 19124713
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_AC
+¡¾2021-01-28 09:02:19:026¡¿K:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:02:19:135¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:02:29:289¡¿User_Case:9
+
+¡¾2021-01-28 09:02:29:789¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:02:30:289¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:02:39:739¡¿User_Case:9
+
+¡¾2021-01-28 09:02:40:255¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:02:51:487¡¿User_Case:9
+
+¡¾2021-01-28 09:02:51:971¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:02:58:579¡¿User_Case:9
+
+¡¾2021-01-28 09:02:59:094¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:03:11:866¡¿User_Case:9
+
+¡¾2021-01-28 09:03:12:366¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:03:25:738¡¿User_Case:9
+PIR_Rise=32647
+
+¡¾2021-01-28 09:03:26:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:26:753¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:27:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:27:737¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:28:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:28:753¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:29:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:29:737¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:30:252¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:30:752¡¿User_Case:11
+User_Case:9
+PIR_Rise=32652
+
+¡¾2021-01-28 09:03:31:252¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:31:736¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:32:252¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:03:32:705¡¿User_Case:9
+PIR_Rise=32654
+
+¡¾2021-01-28 09:03:33:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:33:689¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:34:189¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:34:704¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:35:204¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:35:689¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:36:189¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:36:704¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:37:188¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:37:688¡¿User_Case:11
+User_Case:9
+PIR_Rise=32659
+
+¡¾2021-01-28 09:03:38:188¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:38:704¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:39:188¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:39:688¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:40:206¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:03:40:706¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:03:41:190¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:04:07:872¡¿User_Case:9
+PIR_Rise=32689
+
+¡¾2021-01-28 09:04:08:387¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:08:887¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:09:387¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:09:887¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:10:387¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:10:887¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:11:387¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:11:886¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:12:402¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32694
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:04:12:511¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:04:13:495¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19126202
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:04:14:136¡¿JPGPub jpeg_all :18195  18195
+Send_JPEG_Done 0 19126917
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:04:14:245¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:04:14:355¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:04:21:728¡¿User_Case:9
+
+¡¾2021-01-28 09:04:22:228¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:04:22:743¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:04:23:868¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:04:38:911¡¿User_Case:9
+
+¡¾2021-01-28 09:04:39:411¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:04:52:471¡¿User_Case:9
+
+¡¾2021-01-28 09:04:52:971¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:05:06:436¡¿User_Case:9
+
+¡¾2021-01-28 09:05:06:952¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:05:15:543¡¿User_Case:9
+PIR_Rise=32757
+
+¡¾2021-01-28 09:05:16:043¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:16:543¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:17:043¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:17:543¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:18:043¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:18:543¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:19:043¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:19:542¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:20:042¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32762
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:05:20:152¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:05:21:151¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19128203
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:05:21:761¡¿JPGPub jpeg_all :18062  18062
+Send_JPEG_Done 0 19128872
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:05:21:870¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:05:24:573¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:05:27:463¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:05:54:959¡¿User_Case:9
+
+¡¾2021-01-28 09:05:55:458¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:05:55:958¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:06:01:816¡¿User_Case:9
+
+¡¾2021-01-28 09:06:02:332¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:06:14:660¡¿User_Case:9
+
+¡¾2021-01-28 09:06:15:175¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:06:21:862¡¿User_Case:9
+PIR_Rise=32823
+
+¡¾2021-01-28 09:06:22:377¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:22:862¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:23:362¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:23:877¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:24:377¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:24:861¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:25:361¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:25:877¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:26:377¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:26:861¡¿User_Case:11
+User_Case:9
+PIR_Rise=32828
+
+¡¾2021-01-28 09:06:27:361¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:27:876¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:28:376¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:28:860¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:06:29:360¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:06:46:374¡¿User_Case:9
+PIR_Rise=32848
+
+¡¾2021-01-28 09:06:46:889¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:47:389¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:47:889¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:48:373¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:48:889¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:49:389¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:49:888¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:50:373¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:50:888¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:51:388¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:51:888¡¿User_Case:11
+User_Case:9
+PIR_Rise=32853
+
+¡¾2021-01-28 09:06:52:388¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:52:888¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:53:388¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:06:53:887¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:06:53:997¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:06:57:105¡¿User_Case:9
+PIR_Rise=32859
+
+¡¾2021-01-28 09:06:57:605¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:58:105¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:58:605¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:59:121¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:06:59:605¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:00:105¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:00:605¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:01:120¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:01:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:02:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:02:604¡¿User_Case:11
+User_Case:9
+PIR_Rise=32864
+
+¡¾2021-01-28 09:07:03:120¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:03:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:04:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:04:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:05:119¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:07:05:603¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:07:35:660¡¿User_Case:9
+PIR_Rise=32897
+
+¡¾2021-01-28 09:07:36:160¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:36:659¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:37:159¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:37:659¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:38:159¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:38:659¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:39:159¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:39:659¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:40:159¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:40:658¡¿User_Case:11
+User_Case:9
+PIR_Rise=32902
+
+¡¾2021-01-28 09:07:41:158¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:41:658¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:42:158¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:42:658¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:43:173¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:43:658¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:44:158¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:07:44:657¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:07:47:329¡¿User_Case:9
+PIR_Rise=32909
+
+¡¾2021-01-28 09:07:47:844¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:48:328¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:48:828¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:49:344¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:49:844¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:50:328¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:50:828¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:51:343¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:51:843¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:07:52:327¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:32914
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:07:52:437¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:07:53:437¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19130580
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:07:54:077¡¿JPGPub jpeg_all :18106  18106
+Send_JPEG_Done 0 19131297
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:07:54:186¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:07:54:296¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TC
+¡¾2021-01-28 09:07:54:405¡¿P_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:08:01:778¡¿User_Case:9
+
+¡¾2021-01-28 09:08:02:278¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:08:02:778¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:08:43:567¡¿User_Case:9
+
+¡¾2021-01-28 09:08:44:083¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:09:14:451¡¿User_Case:9
+PIR_Rise=32996
+
+¡¾2021-01-28 09:09:14:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:15:466¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:15:959¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:16:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:16:949¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:17:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:17:964¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:18:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:18:948¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:19:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:19:963¡¿User_Case:11
+User_Case:9
+PIR_Rise=33001
+
+¡¾2021-01-28 09:09:20:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:20:947¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:09:21:463¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:09:22:134¡¿User_Case:9
+PIR_Rise=33004
+
+¡¾2021-01-28 09:09:22:634¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:23:134¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:23:493¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:09:23:603¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:24:134¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:24:634¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:25:134¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:25:633¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:26:133¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:26:633¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:27:149¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33009
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:09:27:258¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:09:28:242¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19132657
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:09:28:851¡¿JPGPub jpeg_all :18221  18221
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 19133333
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP
+¡¾2021-01-28 09:09:28:961¡¿_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:09:36:724¡¿User_Case:9
+
+¡¾2021-01-28 09:09:37:224¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:09:37:709¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:10:00:521¡¿User_Case:9
+
+¡¾2021-01-28 09:10:01:036¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:10:23:669¡¿User_Case:9
+
+¡¾2021-01-28 09:10:24:169¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:10:26:356¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xA9 0 19133482
+UART_IRQ done
+
+¡¾2021-01-28 09:10:31:993¡¿User_Case:9
+PIR_Rise=33074
+
+¡¾2021-01-28 09:10:32:493¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:32:993¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:33:493¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:34:008¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:34:493¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:34:992¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:35:492¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:36:008¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:36:492¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:36:992¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:37:492¡¿User_Case:11
+User_Case:9
+PIR_Rise=33079
+
+¡¾2021-01-28 09:10:38:007¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:38:492¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:38:992¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:39:491¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:40:007¡¿User_Case:11
+User_Case:9
+User_Case:9
+
+¡¾2021-01-28 09:10:40:585¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:41:069¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:41:569¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:10:42:069¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33084
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:10:42:178¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:10:43:178¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19134722
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:10:43:787¡¿JPGPub jpeg_all :18451  18451
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 19135395TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:10:43:897¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:11:28:308¡¿User_Case:9
+
+¡¾2021-01-28 09:11:28:807¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:29:323¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:11:38:040¡¿User_Case:9
+
+¡¾2021-01-28 09:11:38:555¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:11:44:835¡¿User_Case:9
+PIR_Rise=33146
+
+¡¾2021-01-28 09:11:45:350¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:45:850¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:46:334¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:46:834¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:47:350¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:47:850¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:48:334¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:48:834¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:49:349¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:49:849¡¿User_Case:11
+User_Case:9
+PIR_Rise=33151
+
+¡¾2021-01-28 09:11:50:333¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:50:833¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:51:349¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:51:849¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:52:333¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:52:833¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:11:53:348¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:11:53:848¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:11:55:879¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:12:35:350¡¿User_Case:9
+PIR_Rise=33197
+
+¡¾2021-01-28 09:12:35:866¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:36:356¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:36:852¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:37:368¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:37:872¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:38:356¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:38:855¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:39:363¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:39:859¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:12:40:370¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33202
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:12:40:473¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:12:41:463¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19136770
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:12:42:108¡¿JPGPub jpeg_all :18316  18316
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 19137489
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+Net
+¡¾2021-01-28 09:12:42:223¡¿APP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:12:42:323¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:13:11:520¡¿User_Case:9
+
+¡¾2021-01-28 09:13:12:021¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:13:12:533¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:13:25:191¡¿User_Case:9
+
+¡¾2021-01-28 09:13:25:676¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:13:59:266¡¿User_Case:9
+PIR_Rise=33281
+
+¡¾2021-01-28 09:13:59:753¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:00:239¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:00:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:01:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:01:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:02:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:02:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:03:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:03:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:04:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:04:754¡¿User_Case:11
+User_Case:9
+PIR_Rise=33286
+
+¡¾2021-01-28 09:14:05:268¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:05:752¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:06:252¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:06:362¡¿User_Case:9
+
+¡¾2021-01-28 09:14:06:924¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:07:408¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:07:908¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:08:424¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:08:923¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:09:408¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:09:908¡¿User_Case:11
+User_Case:9
+PIR_Rise=33291
+
+¡¾2021-01-28 09:14:10:423¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:10:923¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:11:407¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:11:907¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:12:423¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:12:923¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:14:13:407¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:14:14:719¡¿User_Case:9
+PIR_Rise=33296
+
+¡¾2021-01-28 09:14:15:219¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:15:734¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:16:228¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:16:726¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:17:226¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:17:726¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:18:226¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:18:726¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:19:226¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:19:726¡¿User_Case:11
+User_Case:9
+PIR_Rise=33301
+
+¡¾2021-01-28 09:14:20:226¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:20:726¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:21:225¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:21:725¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:22:225¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:22:725¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:14:23:225¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:14:23:725¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:14:38:104¡¿User_Case:9
+PIR_Rise=33320
+
+¡¾2021-01-28 09:14:38:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:39:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:39:620¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:40:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:40:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:41:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:41:619¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:42:103¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:42:603¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:43:103¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:43:619¡¿User_Case:11
+User_Case:9
+PIR_Rise=33325
+
+¡¾2021-01-28 09:14:44:103¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:44:603¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:45:103¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:14:45:618¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:14:51:480¡¿User_Case:9
+PIR_Rise=33333
+
+¡¾2021-01-28 09:14:51:964¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:52:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:52:979¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:53:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:53:964¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:54:464¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:54:979¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:55:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:55:963¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:56:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:56:979¡¿User_Case:11
+User_Case:9
+PIR_Rise=33338
+
+¡¾2021-01-28 09:14:57:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:14:57:963¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:14:58:463¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:15:06:070¡¿User_Case:9
+PIR_Rise=33348
+
+¡¾2021-01-28 09:15:06:570¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:07:086¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:07:570¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:08:070¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:08:585¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:09:085¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:09:569¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:10:069¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:10:569¡¿User_Case:9
+
+¡¾2021-01-28 09:15:11:085¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33353
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:15:12:163¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19139239
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:15:12:772¡¿JPGPub jpeg_all :18444  18444
+Send_JPEG_Done 0 19139911
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:15:12:881¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:15:12:990¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:15:18:661¡¿User_Case:9
+
+¡¾2021-01-28 09:15:19:161¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:15:19:676¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:15:38:031¡¿User_Case:9
+
+¡¾2021-01-28 09:15:38:531¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:15:49:482¡¿User_Case:9
+
+¡¾2021-01-28 09:15:49:997¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:16:06:494¡¿User_Case:9
+
+¡¾2021-01-28 09:16:06:993¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:16:12:589¡¿User_Case:9
+PIR_Rise=33414
+
+¡¾2021-01-28 09:16:13:089¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:13:589¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:14:088¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:14:588¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:15:104¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:15:588¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:16:088¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:16:588¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:17:103¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:17:400¡¿TCP_Task:102_0 
+
+¡¾2021-01-28 09:16:17:509¡¿User_Case:11
+User_Case:9
+PIR_Rise=33419
+
+¡¾2021-01-28 09:16:18:087¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:18:587¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:19:103¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:19:587¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:20:087¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:20:587¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:16:21:102¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:16:28:429¡¿User_Case:9
+PIR_Rise=33430
+
+¡¾2021-01-28 09:16:28:929¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:29:429¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:29:928¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:30:428¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:30:928¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:31:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:31:926¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:32:426¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:32:933¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:33:434¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:33:924¡¿User_Case:11
+User_Case:9
+PIR_Rise=33435
+
+¡¾2021-01-28 09:16:34:416¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:34:926¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:35:036¡¿User_Case:9
+
+¡¾2021-01-28 09:16:35:619¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:36:132¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:36:634¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:37:119¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:37:619¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:38:134¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:38:629¡¿User_Case:11
+User_Case:9
+PIR_Rise=33440
+
+¡¾2021-01-28 09:16:39:122¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:39:637¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:40:137¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:40:622¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:41:121¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:16:41:637¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:16:42:137¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:16:53:558¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:17:31:380¡¿User_Case:9
+PIR_Rise=33493
+
+¡¾2021-01-28 09:17:31:895¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:32:395¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:32:879¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:33:379¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:33:895¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:34:395¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:34:879¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:35:379¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:35:894¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:17:36:394¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33498
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:17:36:504¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:17:37:488¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19141496
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:17:38:097¡¿JPGPub jpeg_all :18411  18411
+Send_JPEG_Done 0 19142168
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:17:38:206¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:17:38:316¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:18:06:498¡¿User_Case:9
+
+¡¾2021-01-28 09:18:06:998¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:07:498¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:18:13:551¡¿User_Case:9
+
+¡¾2021-01-28 09:18:14:066¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:18:22:205¡¿User_Case:9
+
+¡¾2021-01-28 09:18:22:705¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:18:47:846¡¿User_Case:9
+PIR_Rise=33569
+
+¡¾2021-01-28 09:18:48:361¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:48:861¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:49:345¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:49:861¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:50:361¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:50:860¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:51:345¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:51:860¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:18:52:376¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:33574
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:18:53:469¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19143425
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:18:54:110¡¿JPGPub jpeg_all :18332  18332
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_DoTCP_Task:66_1 
+NetAPP_ACK:66_1
+ne 0 19TCP_Task:66_1 
+NetAPP_ACK:66_1
+144147TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:18:54:219¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:19:00:202¡¿User_Case:9
+
+¡¾2021-01-28 09:19:00:711¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:19:01:215¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:19:15:586¡¿User_Case:9
+
+¡¾2021-01-28 09:19:16:102¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:19:21:538¡¿User_Case:9
+
+¡¾2021-01-28 09:19:22:054¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:19:24:084¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:19:49:516¡¿User_Case:9
+
+¡¾2021-01-28 09:19:50:031¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:20:03:754¡¿User_Case:9
+PIR_Rise=33645
+
+¡¾2021-01-28 09:20:04:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:04:739¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:05:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:05:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:06:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:06:738¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:07:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:07:754¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:08:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:08:738¡¿User_Case:11
+User_Case:9
+PIR_Rise=33650
+
+¡¾2021-01-28 09:20:09:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:09:753¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:10:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:10:737¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:11:253¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:11:753¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:20:12:252¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:20:13:813¡¿User_Case:9
+PIR_Rise=33655
+
+¡¾2021-01-28 09:20:14:329¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:14:813¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:15:313¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:15:828¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:16:328¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:16:812¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:17:312¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:17:828¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:18:328¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:18:812¡¿User_Case:11
+User_Case:9
+PIR_Rise=33660
+
+¡¾2021-01-28 09:20:19:312¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:19:827¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:20:20:327¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:20:20:812¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:21:06:871¡¿User_Case:9
+PIR_Rise=33708
+
+¡¾2021-01-28 09:21:07:371¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:07:886¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:08:371¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:08:871¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:09:370¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:09:886¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:10:374¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:10:874¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:11:373¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:11:873¡¿User_Case:11
+User_Case:9
+PIR_Rise=33713
+
+¡¾2021-01-28 09:21:12:373¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:12:867¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:13:367¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:13:882¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:14:367¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:14:866¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:21:15:085¡¿User_Case:9
+PIR_Rise=33717
+
+¡¾2021-01-28 09:21:15:601¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:16:101¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:16:600¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:17:085¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:17:600¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:18:100¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:18:600¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:19:084¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:19:600¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:20:100¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:20:599¡¿User_Case:11
+User_Case:9
+PIR_Rise=33722
+
+¡¾2021-01-28 09:21:21:084¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:21:599¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:22:099¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+User_Case:9
+PIR_Rise=33724
+
+¡¾2021-01-28 09:21:22:693¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:23:208¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:23:692¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:24:192¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:24:692¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:25:208¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:25:692¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:26:192¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:26:692¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:27:207¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:27:692¡¿User_Case:11
+User_Case:9
+PIR_Rise=33729
+
+¡¾2021-01-28 09:21:28:145¡¿User_Case:9
+
+¡¾2021-01-28 09:21:28:644¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:29:160¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:29:644¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:30:144¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:30:644¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:31:160¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:31:644¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:32:144¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:32:644¡¿User_Case:11
+User_Case:9
+PIR_Rise=33734
+
+¡¾2021-01-28 09:21:33:159¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:33:643¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:34:143¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:34:643¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:21:35:159¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:21:40:784¡¿User_Case:9
+PIR_Rise=33742
+
+¡¾2021-01-28 09:21:41:283¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:41:768¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:42:283¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:42:783¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:43:283¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:43:767¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:44:283¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:44:783¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:45:283¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:45:767¡¿User_Case:11
+User_Case:9
+PIR_Rise=33747
+
+¡¾2021-01-28 09:21:46:282¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:46:782¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:47:282¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:21:47:782¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:21:53:906¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:21:54:921¡¿User_Case:9
+PIR_Rise=33756
+
+¡¾2021-01-28 09:21:55:421¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:55:936¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:56:421¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:56:920¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:57:420¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:57:936¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:58:420¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:58:920¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:59:420¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:21:59:935¡¿User_Case:11
+User_Case:9
+PIR_Rise=33761
+
+¡¾2021-01-28 09:22:00:420¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:00:919¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:01:435¡¿User_Case:9
+
+¡¾2021-01-28 09:22:01:935¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:02:435¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:02:935¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:03:434¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:03:934¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:04:434¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:04:934¡¿User_Case:11
+User_Case:9
+PIR_Rise=33766
+
+¡¾2021-01-28 09:22:05:434¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:05:934¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:06:434¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:06:934¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:07:424¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:07:936¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:08:436¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:22:08:936¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:22:25:508¡¿User_Case:9
+PIR_Rise=33787
+
+¡¾2021-01-28 09:22:26:008¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:26:492¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:27:008¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:27:508¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:28:000¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:28:509¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:29:009¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:29:509¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:30:009¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:30:509¡¿User_Case:11
+User_Case:9
+PIR_Rise=33792
+
+¡¾2021-01-28 09:22:31:009¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:31:509¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:22:32:009¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:22:32:509¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:23:26:743¡¿User_Case:9
+PIR_Rise=33848
+
+¡¾2021-01-28 09:23:27:258¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:27:742¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:28:242¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:28:742¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:29:258¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:29:742¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:30:242¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:30:742¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:31:257¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:31:742¡¿User_Case:11
+User_Case:9
+PIR_Rise=33853
+
+¡¾2021-01-28 09:23:32:241¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:32:741¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:33:257¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:23:33:741¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:23:34:241¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:24:23:907¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:24:34:268¡¿User_Case:1
+RunTime:1022 Min 513
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:24:34:383¡¿TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 09:25:34:263¡¿User_Case:1
+RunTime:1023 Min 513
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+
+¡¾2021-01-28 09:26:09:930¡¿User_Case:9
+PIR_Rise=34012
+
+¡¾2021-01-28 09:26:10:430¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:10:946¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:11:446¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:11:930¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:12:430¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:12:945¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:13:445¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:13:929¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:14:429¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:14:913¡¿TCP_Task:10_0 
+DSP_STOPPED
+User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:15:445¡¿User_Case:11
+User_Case:9
+PIR_Rise=34017
+
+¡¾2021-01-28 09:26:15:929¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:26:16:444¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:26:16:944¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:26:19:959¡¿TCP_Task:11_0 
+192.168.1.106TCP_Task:10_0 
+TCP_Task:10_0 
+TCP_Task:11_0 
+
+¡¾2021-01-28 09:26:20:428¡¿192.168.1.106
+¡¾2021-01-28 09:26:20:537¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 09:26:21:083¡¿SPI_Handshake_Done 0
+ShutDown(SPI_NoTask)
+ActionFlag_Done 19146667
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:26:21:192¡¿PowerOFF_DSP
+
+¡¾2021-01-28 09:26:23:308¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 09:26:24:457¡¿SPI_Handshake_Done 0
+ActionFlag_Done 19147967
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:26:45:857¡¿SPI_Timeout
+
+¡¾2021-01-28 09:26:53:449¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:27:16:943¡¿User_Case:1
+RunTime:1024 Min 514
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:27:17:490¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:27:21:504¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:27:23:191¡¿SPI_Timeout
+
+¡¾2021-01-28 09:28:16:960¡¿User_Case:1
+RunTime:1025 Min 514
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:28:30:503¡¿SPI_Timeout
+
+¡¾2021-01-28 09:29:08:174¡¿SPI_Timeout
+
+¡¾2021-01-28 09:29:09:720¡¿SPI_Timeout
+
+¡¾2021-01-28 09:29:16:953¡¿User_Case:1
+RunTime:1026 Min 514
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:29:17:500¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:29:23:441¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:30:00:734¡¿SPI_Timeout
+
+¡¾2021-01-28 09:30:16:947¡¿User_Case:1
+RunTime:1027 Min 515
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:31:10:309¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:31:11:856¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:31:16:933¡¿User_Case:1
+RunTime:1028 Min 515
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:31:17:486¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:31:23:444¡¿SPI_Timeout
+
+¡¾2021-01-28 09:31:53:436¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:32:16:931¡¿User_Case:1
+RunTime:1029 Min 516
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:33:16:926¡¿User_Case:1
+RunTime:1030 Min 516
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:33:17:457¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:33:32:782¡¿SPI_Timeout
+
+¡¾2021-01-28 09:33:44:326¡¿SPI_Timeout
+
+¡¾2021-01-28 09:33:44:435¡¿SPI_Timeout
+
+¡¾2021-01-28 09:33:51:371¡¿SPI_Timeout
+
+¡¾2021-01-28 09:33:55:214¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:33:56:558¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:34:16:926¡¿User_Case:1
+RunTime:1031 Min 516
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:34:23:455¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:34:27:814¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:34:29:360¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:34:49:934¡¿SPI_Timeout
+
+¡¾2021-01-28 09:35:00:525¡¿SPI_Timeout
+
+¡¾2021-01-28 09:35:02:805¡¿SPI_Timeout
+
+¡¾2021-01-28 09:35:16:927¡¿User_Case:1
+RunTime:1032 Min 517
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:35:17:458¡¿SPI_Timeout
+Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:35:34:720¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:36:16:913¡¿User_Case:1
+RunTime:1033 Min 517
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:36:38:892¡¿SPI_Timeout
+
+¡¾2021-01-28 09:36:42:360¡¿SPI_Timeout
+
+¡¾2021-01-28 09:36:53:453¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:37:16:915¡¿User_Case:1
+RunTime:1034 Min 518
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:37:17:462¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:38:11:562¡¿SPI_Timeout
+
+¡¾2021-01-28 09:38:16:911¡¿User_Case:1
+RunTime:1035 Min 518
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:38:32:595¡¿SPI_Timeout
+
+¡¾2021-01-28 09:39:16:223¡¿SPI_Timeout
+
+¡¾2021-01-28 09:39:16:910¡¿User_Case:1
+RunTime:1036 Min 518
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:39:17:442¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:39:23:456¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:39:26:564¡¿SPI_Timeout
+
+¡¾2021-01-28 09:39:32:594¡¿SPI_Timeout
+
+¡¾2021-01-28 09:39:43:620¡¿SPI_Timeout
+
+¡¾2021-01-28 09:39:48:777¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:39:50:242¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:40:16:909¡¿User_Case:1
+RunTime:1037 Min 519
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:40:22:423¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 09:40:22:533¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 09:40:22:751¡¿PowerOFF_DSP
+
+¡¾2021-01-28 09:40:25:351¡¿TCP_Task:102_0 
+
+¡¾2021-01-28 09:40:31:085¡¿User_Case:9
+PIR_Rise=34873
+
+¡¾2021-01-28 09:40:31:582¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:32:083¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:32:579¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:33:079¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:33:587¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:34:091¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:34:575¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:35:075¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:35:591¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:36:082¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:36:566¡¿User_Case:11
+User_Case:9
+PIR_Rise=34878
+
+¡¾2021-01-28 09:40:37:074¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:37:585¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:40:38:080¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:40:49:470¡¿User_Case:9
+PIR_Rise=34891
+
+¡¾2021-01-28 09:40:49:966¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:50:460¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:50:984¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:51:484¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:51:969¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:52:460¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:52:986¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:53:469¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:53:969¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:54:469¡¿User_Case:11
+User_Case:9
+PIR_Rise=34896
+
+¡¾2021-01-28 09:40:54:980¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:55:466¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:55:966¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:56:462¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:56:986¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:40:57:475¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:40:57:959¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:40:59:436¡¿User_Case:9
+PIR_Rise=34901
+
+¡¾2021-01-28 09:40:59:944¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:00:435¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:00:935¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:01:451¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:01:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:02:450¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:02:935¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:03:450¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:03:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:04:450¡¿User_Case:11
+User_Case:9
+PIR_Rise=34906
+
+¡¾2021-01-28 09:41:04:934¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:05:450¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:05:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:06:443¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:06:938¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:07:449¡¿User_Case:11
+User_Case:9
+PIR_Timerout_Close
+
+¡¾2021-01-28 09:41:07:953¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:41:16:946¡¿User_Case:9
+PIR_Rise=34919
+
+¡¾2021-01-28 09:41:17:462¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:17:958¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:18:455¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:18:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:19:461¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:19:958¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:20:455¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:20:950¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:21:462¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:21:958¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:22:464¡¿User_Case:11
+User_Case:9
+PIR_Rise=34924
+
+¡¾2021-01-28 09:41:22:948¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:23:463¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:23:963¡¿User_Case:11
+User_Case:9
+User_Case:9
+
+¡¾2021-01-28 09:41:24:549¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:25:045¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:25:542¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:26:036¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:26:547¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:27:056¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:34929
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:41:27:520¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:41:28:142¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19987700
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:41:28:772¡¿JPGPub jpeg_all :27360  27360
+Send_JPEG_Done 0 19988420
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:41:28:875¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:41:28:986¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:41:29:090¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:41:39:484¡¿User_Case:9
+
+¡¾2021-01-28 09:41:39:978¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:41:40:495¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:41:47:431¡¿User_Case:9
+
+¡¾2021-01-28 09:41:47:931¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:41:54:117¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:41:57:647¡¿User_Case:9
+
+¡¾2021-01-28 09:41:58:147¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:42:16:289¡¿User_Case:9
+
+¡¾2021-01-28 09:42:16:789¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:42:38:127¡¿User_Case:9
+PIR_Rise=35000
+
+¡¾2021-01-28 09:42:38:642¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:39:142¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:39:627¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:40:142¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:40:646¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:41:130¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:41:630¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:42:146¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:42:645¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:43:145¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:35005
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:42:43:255¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:42:44:239¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19989739
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:42:44:879¡¿JPGPub jpeg_all :28563  28563
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:42:44:989¡¿Send_JPEG_Done 0 19990489
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:42:45:098¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:42:51:237¡¿User_Case:9
+
+¡¾2021-01-28 09:42:51:753¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:42:52:237¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:01:891¡¿User_Case:9
+
+¡¾2021-01-28 09:43:02:390¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:18:168¡¿User_Case:9
+
+¡¾2021-01-28 09:43:18:668¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:23:245¡¿User_Case:9
+
+¡¾2021-01-28 09:43:23:744¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:34:231¡¿User_Case:9
+
+¡¾2021-01-28 09:43:34:752¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:40:558¡¿User_Case:9
+
+¡¾2021-01-28 09:43:41:049¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:43:42:789¡¿TCP_Task:10_0 
+DSP_STOPPED
+TCP_Task:102_0 
+
+¡¾2021-01-28 09:43:50:772¡¿User_Case:9
+PIR_Rise=35072
+
+¡¾2021-01-28 09:43:51:280¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:51:778¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:52:282¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:52:770¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:53:291¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:53:775¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:54:276¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:54:767¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:43:55:282¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:35077
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:43:56:376¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19991814
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:43:57:004¡¿JPGPub jpeg_all :29207  29207
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:43:57:106¡¿Send_JPEG_Done 0 19992538
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:43:57:210¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:43:57:310¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:44:11:662¡¿User_Case:9
+
+¡¾2021-01-28 09:44:12:173¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:44:12:669¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:44:23:634¡¿User_Case:9
+
+¡¾2021-01-28 09:44:24:121¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:44:24:761¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:44:30:824¡¿User_Case:9
+
+¡¾2021-01-28 09:44:31:326¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:44:38:497¡¿User_Case:9
+
+¡¾2021-01-28 09:44:38:997¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:44:57:168¡¿User_Case:9
+PIR_Rise=35139
+
+¡¾2021-01-28 09:44:57:663¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:44:58:169¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:44:58:668¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:44:59:168¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:44:59:668¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:00:168¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:00:673¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:01:168¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:01:668¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:02:153¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:35144
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 09:45:02:262¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:45:03:277¡¿SPI_Handshake_Done 1
+ActionFlag_Done 19993840
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:45:03:910¡¿JPGPub jpeg_all :29692  29692
+Send_JPEG_Done 0 19994582
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 09:45:04:324¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:45:04:434¡¿TCP_Task:66_1 
+NetAPP_A
+¡¾2021-01-28 09:45:04:543¡¿CK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:45:04:652¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:45:08:340¡¿User_Case:9
+
+¡¾2021-01-28 09:45:08:855¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:45:09:355¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:45:17:558¡¿User_Case:9
+
+¡¾2021-01-28 09:45:18:073¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:45:38:431¡¿User_Case:9
+
+¡¾2021-01-28 09:45:38:944¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:45:43:511¡¿TCP_Task:10_0 
+DSP_STOPPED
+
+¡¾2021-01-28 09:45:45:374¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 09:45:46:571¡¿SPI_Handshake_Done 0
+ActionFlag_Done 19995916
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:46:20:617¡¿SPI_Timeout
+
+¡¾2021-01-28 09:46:38:960¡¿User_Case:1
+RunTime:1038 Min 521
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:46:39:475¡¿Invalid_ADC
+Voltage=7.620657 100%
+
+¡¾2021-01-28 09:46:41:507¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:43:397¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:45:741¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:47:460¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:49:147¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:51:659¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:46:53:085¡¿Network_Traffic:1
+
+¡¾2021-01-28 09:46:53:569¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:46:54:546¡¿Network_Traffic:2
+
+¡¾2021-01-28 09:46:56:022¡¿Network_Traffic:3
+
+¡¾2021-01-28 09:46:57:523¡¿Network_Traffic:4
+
+¡¾2021-01-28 09:46:58:991¡¿Network_Traffic:5
+
+¡¾2021-01-28 09:47:00:450¡¿Network_Traffic:6
+
+¡¾2021-01-28 09:47:01:933¡¿Network_Traffic:7
+
+¡¾2021-01-28 09:47:03:401¡¿Network_Traffic:8
+
+¡¾2021-01-28 09:47:04:882¡¿Network_Traffic:9
+ShutDown(uDMA_SOCKET_SEND)
+
+¡¾2021-01-28 09:47:05:132¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 09:47:05:242¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 09:47:05:898¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 09:47:06:866¡¿WlanEvents
+
+¡¾2021-01-28 09:47:06:986¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 09:47:07:100¡¿Voltage=7.862514 100%
+
+¡¾2021-01-28 09:47:07:209¡¿ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+
+¡¾2021-01-28 09:47:07:319¡¿LoginServer: 0
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 09:47:07:536¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 09:47:08:036¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 09:47:08:567¡¿SSID:htt RSSI:-46
+
+¡¾2021-01-28 09:47:09:098¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 09:47:11:051¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 09:47:12:194¡¿SPI_Handshake_Done 0
+ActionFlag_Done 4859
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:47:41:178¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:47:41:912¡¿SPI_Timeout
+
+¡¾2021-01-28 09:48:02:410¡¿SPI_Timeout
+
+¡¾2021-01-28 09:48:06:543¡¿SPI_Timeout
+
+¡¾2021-01-28 09:48:07:295¡¿User_Case:1
+RunTime:1 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:48:30:642¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 09:48:30:747¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 09:48:31:413¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 09:48:32:109¡¿WlanEvents
+
+¡¾2021-01-28 09:48:32:218¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 09:48:32:327¡¿Voltage=7.850004 100%
+ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 09:48:32:437¡¿WriteFileToDevice :00
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 09:48:32:546¡¿LoginServer: 0
+
+¡¾2021-01-28 09:48:32:765¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 09:48:33:312¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 09:48:33:421¡¿WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 09:48:33:818¡¿SSID:htt RSSI:-42
+
+¡¾2021-01-28 09:48:34:332¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 09:48:36:554¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 09:48:37:723¡¿SPI_Handshake_Done 0
+ActionFlag_Done 4538
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:48:38:051¡¿SPI_Timeout
+
+¡¾2021-01-28 09:49:13:502¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:49:31:194¡¿SPI_Timeout
+
+¡¾2021-01-28 09:49:32:472¡¿User_Case:1
+RunTime:1 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:49:41:879¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:50:32:473¡¿User_Case:1
+RunTime:2 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:50:32:722¡¿Voltage=7.837494 100%
+
+¡¾2021-01-28 09:51:02:441¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:51:08:272¡¿SPI_Timeout
+
+¡¾2021-01-28 09:51:30:254¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:51:31:771¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:51:32:472¡¿User_Case:1
+RunTime:3 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 09:52:06:832¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 09:52:06:941¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 09:52:07:590¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 09:52:08:278¡¿WlanEvents
+
+¡¾2021-01-28 09:52:08:382¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 09:52:08:488¡¿Voltage=7.829154 100%
+
+¡¾2021-01-28 09:52:08:589¡¿ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+
+¡¾2021-01-28 09:52:08:691¡¿LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 09:52:09:090¡¿LoginServer: 0
+
+¡¾2021-01-28 09:52:09:409¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 09:52:09:924¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+on_dev_params_respons
+¡¾2021-01-28 09:52:10:033¡¿e mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 09:52:10:354¡¿SSID:htt RSSI:-47
+
+¡¾2021-01-28 09:52:10:892¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 09:52:15:019¡¿User_Case:9
+PIR_Rise=35575
+
+¡¾2021-01-28 09:52:15:535¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:52:16:035¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:52:16:494¡¿TCP_Task:11_0 
+192.168.1.106User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:52:17:018¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 09:52:17:645¡¿SPI_Handshake_Done 0
+ActionFlag_Done 4540
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:54:11:879¡¿SPI_Timeout
+
+¡¾2021-01-28 09:54:16:365¡¿SPI_Timeout
+
+¡¾2021-01-28 09:54:38:442¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:55:00:415¡¿SPI_Timeout
+
+¡¾2021-01-28 09:55:19:339¡¿SPI_Timeout
+
+¡¾2021-01-28 09:55:33:527¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:55:37:702¡¿SPI_Timeout
+
+¡¾2021-01-28 09:56:09:566¡¿SPI_Timeout
+
+¡¾2021-01-28 09:56:14:941¡¿SPI_Timeout
+
+¡¾2021-01-28 09:56:31:704¡¿Network_Traffic:0
+
+¡¾2021-01-28 09:57:08:431¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 09:57:59:442¡¿SPI_Timeout
+
+¡¾2021-01-28 09:58:11:934¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 09:58:12:142¡¿ShutDown(TunnelWrite:0_1)
+PowerOFF_DSP
+
+¡¾2021-01-28 09:58:12:248¡¿User_Case:9
+PIR_Rise=35932
+
+¡¾2021-01-28 09:58:12:750¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:13:261¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:13:757¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:14:254¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:14:750¡¿User_Case:11
+User_Case:9
+TCP_Task:102_0 
+
+¡¾2021-01-28 09:58:15:261¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:15:757¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:16:252¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:16:749¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 09:58:17:268¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:35937
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_A
+¡¾2021-01-28 09:58:17:372¡¿CK:63_0
+
+¡¾2021-01-28 09:58:18:361¡¿SPI_Handshake_Done 1
+ActionFlag_Done 360200
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:58:18:985¡¿JPGPub jpeg_all :24973  24973
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 360914
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_A
+¡¾2021-01-28 09:58:19:088¡¿CK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:58:19:191¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:58:22:009¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xA9 0 361024
+UART_IRQ done
+
+¡¾2021-01-28 09:58:22:538¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xAC 0 361077
+1 1 0 1 0 
+UartACK:0xAC 0x00
+UART_IRQ done
+User_Case:2
+
+¡¾2021-01-28 09:58:22:640¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 09:58:23:674¡¿SPI_Handshake_Done 1
+ActionFlag_Done 362198
+
+POWER_UP_DSP
+
+¡¾2021-01-28 09:58:24:330¡¿JPGPub jpeg_all :26190  26190
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 362936
+TCP_Task:66_1 
+Net
+¡¾2021-01-28 09:58:24:433¡¿APP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:58:24:537¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 09:58:27:439¡¿TCP_Task:10_0 
+DSP_STOPPED
+TCP_Task:11_0 
+UartACK:0xAC 0x0B
+192.168.1.106ActionFlag_Done 365962
+
+¡¾2021-01-28 09:58:51:544¡¿SPI_Timeout
+
+¡¾2021-01-28 09:59:17:278¡¿User_Case:1
+RunTime:1 Min 2
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 09:59:38:425¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:00:17:273¡¿User_Case:1
+RunTime:2 Min 3
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:00:17:533¡¿Voltage=7.820814 100%
+
+¡¾2021-01-28 10:01:15:656¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:01:17:097¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:01:17:199¡¿User_Case:1
+RunTime:3 Min 3
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:01:20:672¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:01:44:657¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:01:47:115¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:01:52:745¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:02:03:312¡¿SPI_Timeout
+
+¡¾2021-01-28 10:02:08:734¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:02:17:264¡¿User_Case:1
+RunTime:4 Min 4
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:02:17:514¡¿Voltage=7.812474 100%
+
+¡¾2021-01-28 10:02:43:404¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:03:17:256¡¿User_Case:1
+RunTime:5 Min 4
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:03:28:426¡¿SPI_Timeout
+
+¡¾2021-01-28 10:03:29:420¡¿SPI_Timeout
+
+¡¾2021-01-28 10:03:35:669¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:03:36:497¡¿SPI_Timeout
+
+¡¾2021-01-28 10:03:39:435¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:03:52:075¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:04:17:253¡¿User_Case:1
+RunTime:6 Min 4
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:04:17:513¡¿Voltage=7.802049 100%
+
+¡¾2021-01-28 10:04:32:353¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:04:38:654¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:04:38:763¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:04:45:122¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:05:17:248¡¿User_Case:1
+RunTime:7 Min 5
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:05:35:481¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 10:05:35:591¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 10:05:36:231¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 10:05:36:856¡¿WlanEvents
+
+¡¾2021-01-28 10:05:37:075¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 10:05:37:184¡¿Voltage=7.812474 100%
+ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 10:05:37:293¡¿WriteFileToDevice :00
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 10:05:40:339¡¿LoginServer: 0
+
+¡¾2021-01-28 10:05:40:602¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 10:05:41:033¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 10:05:41:136¡¿WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 10:05:41:559¡¿SSID:htt RSSI:-47
+
+¡¾2021-01-28 10:05:42:074¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 10:05:46:076¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:05:47:212¡¿SPI_Handshake_Done 0
+ActionFlag_Done 4525
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:05:51:011¡¿SPI_Timeout
+
+¡¾2021-01-28 10:06:11:699¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:06:37:307¡¿User_Case:1
+RunTime:1 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:06:59:871¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:07:03:058¡¿SPI_Timeout
+
+¡¾2021-01-28 10:07:05:683¡¿SPI_Timeout
+
+¡¾2021-01-28 10:07:16:891¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:07:28:809¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:07:30:839¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:07:37:307¡¿User_Case:1
+RunTime:2 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:07:37:555¡¿Voltage=7.806219 100%
+
+¡¾2021-01-28 10:07:38:097¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:07:57:244¡¿SPI_Timeout
+
+¡¾2021-01-28 10:08:06:682¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:08:09:417¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:08:14:698¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:08:34:931¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:08:37:291¡¿User_Case:1
+RunTime:3 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:08:43:134¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:08:48:088¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:09:20:290¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xA9 0 217616
+
+¡¾2021-01-28 10:09:20:394¡¿UART_IRQ done
+
+¡¾2021-01-28 10:09:37:291¡¿User_Case:1
+RunTime:4 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:09:37:545¡¿Voltage=7.795794 100%
+
+¡¾2021-01-28 10:09:45:244¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:09:46:857¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:10:29:132¡¿SPI_Timeout
+
+¡¾2021-01-28 10:10:33:510¡¿SPI_Timeout
+
+¡¾2021-01-28 10:10:37:291¡¿User_Case:1
+RunTime:5 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:10:39:416¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:11:10:275¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:11:17:259¡¿SPI_Timeout
+
+¡¾2021-01-28 10:11:18:775¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:11:25:945¡¿SPI_Timeout
+
+¡¾2021-01-28 10:11:37:290¡¿User_Case:1
+RunTime:6 Min 2
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:11:37:539¡¿Voltage=7.785369 100%
+
+¡¾2021-01-28 10:11:38:790¡¿SPI_Timeout
+
+¡¾2021-01-28 10:11:54:150¡¿SPI_Timeout
+
+¡¾2021-01-28 10:12:11:338¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:20:588¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:22:306¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:27:040¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:29:869¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:37:275¡¿User_Case:1
+RunTime:7 Min 2
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:12:39:166¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:41:572¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:44:156¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:12:47:775¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:13:09:415¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:13:13:974¡¿SPI_Timeout
+
+¡¾2021-01-28 10:13:32:256¡¿SPI_Timeout
+
+¡¾2021-01-28 10:13:37:274¡¿User_Case:1
+RunTime:8 Min 3
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:13:37:531¡¿Voltage=7.783285 100%
+
+¡¾2021-01-28 10:13:38:431¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:14:05:396¡¿SPI_Timeout
+
+¡¾2021-01-28 10:14:20:697¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:14:25:119¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:14:37:275¡¿User_Case:1
+RunTime:9 Min 3
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:14:50:415¡¿SPI_Timeout
+
+¡¾2021-01-28 10:15:10:437¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:14:493¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:19:118¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:22:227¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:33:914¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:37:196¡¿Network_Traffic:0
+User_Case:1
+RunTime:10 Min 3
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:15:37:406¡¿Voltage=7.787455 100%
+
+¡¾2021-01-28 10:15:39:930¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:15:42:915¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:54:665¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:15:58:652¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:16:06:524¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:16:37:257¡¿User_Case:1
+RunTime:11 Min 4
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:16:46:556¡¿SPI_Timeout
+
+¡¾2021-01-28 10:16:55:450¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:16:56:233¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:16:56:444¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 10:16:56:553¡¿PowerOFF_DSP
+
+¡¾2021-01-28 10:16:57:756¡¿User_Case:9
+PIR_Rise=37057
+
+¡¾2021-01-28 10:16:58:272¡¿User_Case:11
+User_Case:9
+TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:16:58:760¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:16:59:256¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:16:59:359¡¿SPI_Handshake_Done 0
+ActionFlag_Done 674949
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:17:45:505¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:17:45:723¡¿ShutDown(TunnelWrite:0_1)
+PowerOFF_DSP
+
+¡¾2021-01-28 10:17:46:852¡¿User_Case:9
+PIR_Rise=37106
+
+¡¾2021-01-28 10:17:47:365¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:47:864¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:48:364¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:48:848¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:49:364¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:49:860¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:50:355¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:17:50:756¡¿TCP_Task:11_0 
+192.168.1.106User_Case:11
+
+¡¾2021-01-28 10:17:50:866¡¿User_Case:9
+
+¡¾2021-01-28 10:17:51:366¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:17:51:912¡¿SPI_Handshake_Done 0
+ActionFlag_Done 722432
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:17:57:068¡¿SPI_Timeout
+
+¡¾2021-01-28 10:18:09:426¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:18:30:254¡¿SPI_Timeout
+
+¡¾2021-01-28 10:18:52:253¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:19:18:689¡¿SPI_Timeout
+
+¡¾2021-01-28 10:19:36:876¡¿SPI_Timeout
+
+¡¾2021-01-28 10:19:37:744¡¿SPI_Timeout
+
+¡¾2021-01-28 10:19:49:282¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:20:02:248¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:20:39:406¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:20:45:795¡¿SPI_Timeout
+
+¡¾2021-01-28 10:20:55:561¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:20:57:218¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:21:10:933¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:21:13:186¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:21:17:363¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:21:23:170¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:21:24:779¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:21:24:998¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 10:21:25:107¡¿PowerOFF_DSP
+
+¡¾2021-01-28 10:21:27:655¡¿TCP_Task:102_0 
+
+¡¾2021-01-28 10:21:28:139¡¿User_Case:9
+PIR_Rise=37328
+
+¡¾2021-01-28 10:21:28:640¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:29:152¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:29:655¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:30:139¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:30:639¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:31:155¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:31:647¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:32:144¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:32:640¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:33:155¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37333
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:21:33:264¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:21:34:249¡¿SPI_Handshake_Done 1
+ActionFlag_Done 938297
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:21:34:859¡¿JPGPub jpeg_all :73469  7933
+
+¡¾2021-01-28 10:21:34:963¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:35:069¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:35:174¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:35:276¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:35:383¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:35:499¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_DTCP_Task:66_1 
+NetAPP_ACK:66_1
+one 0 9TCP_Task:66_1 
+NetAPP_ACK:66_1
+39598
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 10:21:35:608¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:21:48:185¡¿User_Case:9
+
+¡¾2021-01-28 10:21:48:701¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:21:49:201¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:22:03:388¡¿
+¡¾2021-01-28 10:22:28:532¡¿
+¡¾2021-01-28 10:23:23:418¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+¡¾2021-01-28 10:23:24:340¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 10:23:25:371¡¿WlanEvents
+
+¡¾2021-01-28 10:23:25:624¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+Voltage=7.606062 100%
+
+¡¾2021-01-28 10:23:25:726¡¿ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 10:23:25:830¡¿WriteFileToDevice :00
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 10:23:36:653¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 10:23:37:472¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 10:23:40:356¡¿WlanEvents
+
+¡¾2021-01-28 10:23:40:581¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+Voltage=7.606062 100%
+
+¡¾2021-01-28 10:23:40:684¡¿ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 10:23:40:789¡¿WriteFileToDevice :00
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 10:23:40:894¡¿LoginServer: 0
+
+¡¾2021-01-28 10:23:41:201¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 10:23:42:153¡¿SSID:htt RSSI:-38
+
+¡¾2021-01-28 10:23:42:653¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 10:23:44:048¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+
+¡¾2021-01-28 10:23:44:152¡¿TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 10:23:45:793¡¿User_Case:9
+PIR_Rise=37463
+
+¡¾2021-01-28 10:23:46:308¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:46:798¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:47:292¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:47:794¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:48:294¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:48:794¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:49:294¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:49:788¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:23:50:308¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37468
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:23:51:402¡¿SPI_Handshake_Done 1
+ActionFlag_Done 7074
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:23:51:996¡¿JPGPub jpeg_all :23676  23676
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:23:52:105¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 7773
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 10:23:52:548¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:23:52:651¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:23:52:755¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:24:01:152¡¿User_Case:9
+
+¡¾2021-01-28 10:24:01:657¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:02:153¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:24:13:606¡¿User_Case:9
+
+¡¾2021-01-28 10:24:14:102¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:24:24:700¡¿User_Case:9
+
+¡¾2021-01-28 10:24:25:200¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:24:33:090¡¿User_Case:9
+
+¡¾2021-01-28 10:24:33:590¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:24:45:933¡¿User_Case:9
+
+¡¾2021-01-28 10:24:46:440¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:24:52:229¡¿User_Case:9
+PIR_Rise=37530
+
+¡¾2021-01-28 10:24:52:731¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:53:227¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:53:746¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:54:230¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:54:730¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:55:230¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:55:738¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:56:234¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:56:730¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:24:57:230¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37535
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:24:57:449¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:24:58:324¡¿SPI_Handshake_Done 1
+ActionFlag_Done 9082
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:24:58:981¡¿JPGPub jpeg_all :22754  22754
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 9812
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 10:25:00:058¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:25:03:792¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:25:09:777¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:25:12:293¡¿User_Case:9
+
+¡¾2021-01-28 10:25:12:777¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:25:13:277¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:25:22:073¡¿User_Case:9
+
+¡¾2021-01-28 10:25:22:588¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:25:36:151¡¿User_Case:9
+
+¡¾2021-01-28 10:25:36:667¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:25:50:293¡¿User_Case:9
+
+¡¾2021-01-28 10:25:50:807¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:25:59:058¡¿User_Case:9
+PIR_Rise=37597
+
+¡¾2021-01-28 10:25:59:573¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:00:073¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:00:558¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:01:057¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:01:570¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:02:065¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:02:557¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:03:073¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:03:572¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:04:072¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37602
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:26:04:182¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:26:05:166¡¿SPI_Handshake_Done 1
+ActionFlag_Done 11106
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:26:05:823¡¿JPGPub jpeg_all :22915  22915
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 11835
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:26:10:667¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:26:15:885¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:0_0 
+
+¡¾2021-01-28 10:26:23:854¡¿User_Case:9
+
+¡¾2021-01-28 10:26:24:354¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:26:24:870¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:26:39:151¡¿User_Case:9
+
+¡¾2021-01-28 10:26:39:651¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:26:52:985¡¿User_Case:9
+
+¡¾2021-01-28 10:26:53:495¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:26:59:319¡¿User_Case:9
+
+¡¾2021-01-28 10:26:59:838¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:27:12:150¡¿User_Case:9
+PIR_Rise=37670
+
+¡¾2021-01-28 10:27:12:666¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:13:150¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:13:653¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:14:148¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:14:667¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:15:151¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:15:651¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:16:151¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:16:659¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:17:167¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37675
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:27:17:273¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:27:18:260¡¿SPI_Handshake_Done 1
+ActionFlag_Done 13128
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:27:18:869¡¿JPGPub jpeg_all :21924  21924
+Send_JPEG_Done 0 13806
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:27:18:978¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:27:20:213¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:27:22:182¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:27:37:871¡¿User_Case:9
+
+¡¾2021-01-28 10:27:38:367¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:27:38:885¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:27:56:202¡¿User_Case:9
+
+¡¾2021-01-28 10:27:56:713¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:28:05:400¡¿User_Case:9
+
+¡¾2021-01-28 10:28:05:916¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:28:18:213¡¿User_Case:9
+PIR_Rise=37736
+
+¡¾2021-01-28 10:28:18:713¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:19:229¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:19:716¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:20:211¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:20:713¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:21:228¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:21:712¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:22:212¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:22:707¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:23:224¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:37741
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:28:23:494¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:28:24:306¡¿SPI_Handshake_Done 1
+ActionFlag_Done 15088
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:28:24:916¡¿JPGPub jpeg_all :22162  22162
+Send_JPEG_Done 0 15768
+PowerOFF_DSP
+ShutDown(JPG_Send)
+
+¡¾2021-01-28 10:28:25:025¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:25:134¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:25:244¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:25:353¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:27:229¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:29:994¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:38:097¡¿User_Case:9
+
+¡¾2021-01-28 10:28:38:604¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:28:39:104¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:28:41:105¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:28:50:191¡¿User_Case:9
+
+¡¾2021-01-28 10:28:50:697¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:28:54:557¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xA9 0 15932
+UART_IRQ done
+
+¡¾2021-01-28 10:28:55:088¡¿User_Case:8
+UART_IRQ  1 
+IVIEWS_uart_read length:11 
+CMD:0xAC 0 15985
+1 1 0 1 0 
+UartACK:0xAC 0x00
+UART_IRQ done
+User_Case:2
+
+¡¾2021-01-28 10:28:55:197¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:28:56:232¡¿SPI_Handshake_Done 1
+ActionFlag_Done 17105
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:28:56:884¡¿JPGPub jpeg_all :24118  24118
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_Done 0 17841
+
+¡¾2021-01-28 10:28:57:900¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:28:58:009¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:29:00:384¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:29:04:072¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:11_0 
+UartACK:0xAC 0x0B
+192.168.1.106ActionFlag_Done 24941
+
+¡¾2021-01-28 10:29:07:571¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:09:431¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:11:650¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:13:071¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:14:744¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:17:760¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:19:487¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:21:150¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:25:407¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:27:009¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:28:540¡¿Network_Traffic:1
+
+¡¾2021-01-28 10:29:30:353¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:32:012¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:33:728¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:35:416¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:37:056¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:38:807¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:40:438¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:42:134¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:29:50:728¡¿User_Case:1
+RunTime:1 Min 2
+check_standby_mode_to_deepsleep wait call  1 0 1
+
+¡¾2021-01-28 10:29:56:160¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 10:29:56:271¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 10:29:56:931¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 10:29:57:572¡¿WlanEvents
+
+¡¾2021-01-28 10:29:57:791¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 10:29:57:900¡¿Voltage=7.606062 100%
+ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+
+¡¾2021-01-28 10:29:58:009¡¿WriteFileToDevice :00
+LoginServer: 0
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 10:29:58:353¡¿User_Case:8
+UART_IRQ  1 
+TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+
+¡¾2021-01-28 10:29:58:760¡¿TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 10:29:59:323¡¿SSID:htt RSSI:-45
+
+¡¾2021-01-28 10:29:59:822¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 10:30:01:785¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:30:02:931¡¿SPI_Handshake_Done 0
+ActionFlag_Done 4572
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:30:57:353¡¿SPI_Timeout
+
+¡¾2021-01-28 10:30:58:040¡¿User_Case:1
+RunTime:1 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:31:14:193¡¿SPI_Timeout
+
+¡¾2021-01-28 10:31:58:040¡¿User_Case:1
+RunTime:2 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:31:58:290¡¿Voltage=7.585213 100%
+
+¡¾2021-01-28 10:32:27:415¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:32:46:039¡¿SPI_Timeout
+
+¡¾2021-01-28 10:32:58:024¡¿User_Case:1
+RunTime:3 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:33:01:676¡¿SPI_Timeout
+
+¡¾2021-01-28 10:33:20:262¡¿SPI_Timeout
+
+¡¾2021-01-28 10:33:24:289¡¿SPI_Timeout
+
+¡¾2021-01-28 10:33:58:023¡¿User_Case:1
+RunTime:4 Min 1
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:33:58:289¡¿Voltage=7.562278 100%
+
+¡¾2021-01-28 10:34:13:796¡¿SPI_Timeout
+
+¡¾2021-01-28 10:34:57:398¡¿TCP_Task:0_0 
+SPI_Timeout
+
+¡¾2021-01-28 10:34:58:022¡¿User_Case:1
+RunTime:5 Min 2
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:35:12:398¡¿SPI_Timeout
+
+¡¾2021-01-28 10:35:58:022¡¿User_Case:1
+RunTime:6 Min 2
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:35:58:272¡¿Voltage=7.531003 100%
+
+¡¾2021-01-28 10:36:58:005¡¿User_Case:1
+RunTime:7 Min 2
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:37:08:709¡¿SPI_Timeout
+
+¡¾2021-01-28 10:37:27:411¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:37:37:331¡¿SPI_Timeout
+
+¡¾2021-01-28 10:37:50:755¡¿SPI_Timeout
+
+¡¾2021-01-28 10:37:53:959¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:37:58:005¡¿User_Case:1
+RunTime:8 Min 3
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:37:58:240¡¿Voltage=7.518494 100%
+
+¡¾2021-01-28 10:38:14:273¡¿SPI_Timeout
+
+¡¾2021-01-28 10:38:17:989¡¿SPI_Timeout
+
+¡¾2021-01-28 10:38:22:511¡¿SPI_Timeout
+
+¡¾2021-01-28 10:38:58:004¡¿User_Case:1
+RunTime:9 Min 3
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:39:35:833¡¿SPI_Timeout
+
+¡¾2021-01-28 10:39:44:723¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:39:44:833¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 10:39:44:942¡¿PowerOFF_DSP
+
+¡¾2021-01-28 10:39:47:614¡¿TCP_Task:102_0 
+
+¡¾2021-01-28 10:39:49:248¡¿TCP_Task:10_0 
+DSP_STOPPED
+TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:39:50:443¡¿SPI_Handshake_Done 0
+ActionFlag_Done 587647
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:39:55:160¡¿SPI_Timeout
+
+¡¾2021-01-28 10:39:57:395¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:39:58:005¡¿User_Case:1
+RunTime:10 Min 4
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:39:58:254¡¿Voltage=7.514324 100%
+
+¡¾2021-01-28 10:40:02:028¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:40:02:134¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 10:40:02:239¡¿PowerOFF_DSP
+
+¡¾2021-01-28 10:40:04:828¡¿TCP_Task:102_0 
+
+¡¾2021-01-28 10:40:05:567¡¿User_Case:9
+PIR_Rise=38446
+
+¡¾2021-01-28 10:40:06:067¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:40:06:458¡¿TCP_Task:10_0 
+DSP_STOPPED
+TCP_Task:11_0 
+192.168.1.106User_C
+¡¾2021-01-28 10:40:06:567¡¿ase:11
+User_Case:9
+
+¡¾2021-01-28 10:40:07:067¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:40:07:619¡¿SPI_Handshake_Done 0
+ActionFlag_Done 600612
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:41:38:489¡¿Network_Traffic:0
+
+¡¾2021-01-28 10:41:45:738¡¿SPI_Timeout
+
+¡¾2021-01-28 10:42:27:395¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:42:45:942¡¿SPI_Timeout
+
+¡¾2021-01-28 10:43:16:003¡¿SPI_Timeout
+
+¡¾2021-01-28 10:43:20:598¡¿SPI_Timeout
+
+¡¾2021-01-28 10:44:31:854¡¿SPI_Timeout
+
+¡¾2021-01-28 10:44:57:394¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:45:39:003¡¿SPI_Timeout
+
+¡¾2021-01-28 10:47:15:831¡¿SPI_Timeout
+
+¡¾2021-01-28 10:47:25:448¡¿SPI_Timeout
+
+¡¾2021-01-28 10:47:27:394¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:47:30:659¡¿SPI_Timeout
+
+¡¾2021-01-28 10:47:43:501¡¿SPI_Timeout
+
+¡¾2021-01-28 10:48:55:221¡¿ShutDown(WaitSPIFlag)
+Sys_Reboot 0 1
+Sys_Reboot start
+
+¡¾2021-01-28 10:48:55:331¡¿
+
+
+		   *********************************************
+		            LANCENS TECHNOLOGY INC.
+
+		          Model:LSV073   OTA_PATH:LSV073   
+		          Smart E-lock   
+		   *********************************************
+
+
+
+Firmware version: WiFi:30.32 DSP:0.0
+
+DefaultSimpleLink 1
+
+¡¾2021-01-28 10:48:55:999¡¿STA_Nomal_Mode 0 
+ReadFileFromDevice :00
+Connect_To:htt
+
+¡¾2021-01-28 10:48:57:394¡¿WlanEvents
+
+¡¾2021-01-28 10:48:57:503¡¿NetIP_Events
+Device_IP: 192.168.1.106
+on_wlan_status_changed
+
+¡¾2021-01-28 10:48:57:612¡¿Voltage=7.587298 100%
+ReadFileFromDevice :00
+UID:LSV073AA5QBC93FOAD9L
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+
+¡¾2021-01-28 10:48:57:722¡¿LoginServer: 0
+LPDS_Timer:60S  bat:100
+
+¡¾2021-01-28 10:48:57:940¡¿User_Case:8
+UART_IRQ  1 
+
+¡¾2021-01-28 10:48:58:447¡¿TCP_Task:41_85 
+TCP_Task:35_42 
+TimeSync
+TCP_Task:49_81 
+WriteFileToDevice :0 0 0
+WriteFileToDevice :00
+on_dev_params_response mode:255
+check_standby_mode_to_deepsleep standby_mode 255 
+check_standby_mode_to_deepsleep done
+TCP_Task:45_1 
+NetAPP_ACK:45_1
+
+¡¾2021-01-28 10:48:58:995¡¿SSID:htt RSSI:-33
+
+¡¾2021-01-28 10:48:59:504¡¿IVIEWS_uart_read length:0 
+UART_IRQ done
+
+¡¾2021-01-28 10:49:05:597¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:49:06:753¡¿SPI_Handshake_Done 0
+ActionFlag_Done 5210
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:49:33:018¡¿SPI_Timeout
+
+¡¾2021-01-28 10:49:57:722¡¿User_Case:1
+RunTime:1 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:50:57:721¡¿User_Case:1
+RunTime:2 Min 0
+check_standby_mode_to_deepsleep wait call  0 0 1
+
+¡¾2021-01-28 10:50:57:971¡¿Voltage=7.564363 100%
+
+¡¾2021-01-28 10:51:05:846¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:51:05:956¡¿ShutDown(TunnelWrite:0_1)
+
+¡¾2021-01-28 10:51:06:065¡¿PowerOFF_DSP
+
+¡¾2021-01-28 10:51:07:900¡¿TCP_Task:11_0 
+192.168.1.106
+¡¾2021-01-28 10:51:09:049¡¿SPI_Handshake_Done 0
+
+¡¾2021-01-28 10:51:09:815¡¿TCP_Task:10_0 
+
+¡¾2021-01-28 10:51:19:049¡¿ShutDown(SPI_NoTask)
+ActionFlag_Done 135638
+
+POWER_UP_DSP
+PowerOFF_DSP
+
+¡¾2021-01-28 10:51:27:423¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:51:31:702¡¿User_Case:9
+PIR_Rise=39132
+
+¡¾2021-01-28 10:51:32:198¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:32:705¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:33:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:33:705¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:34:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:34:709¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:35:206¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:35:705¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:36:205¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:36:705¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:37:205¡¿User_Case:11
+User_Case:9
+PIR_Rise=39137
+
+¡¾2021-01-28 10:51:37:701¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:37:806¡¿User_Case:9
+
+¡¾2021-01-28 10:51:38:358¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:38:846¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:39:346¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:39:846¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:40:361¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:40:852¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:41:348¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:41:846¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:39142
+User_Case:12
+User_Case:2
+
+¡¾2021-01-28 10:51:41:955¡¿TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:51:42:955¡¿SPI_Handshake_Done 1
+ActionFlag_Done 136882
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:51:43:596¡¿JPGPub jpeg_all :31673  31673
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:51:43:701¡¿Send_JPEG_Done 0 137629
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:51:43:805¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:51:50:720¡¿User_Case:9
+
+¡¾2021-01-28 10:51:51:236¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:51:51:736¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:52:05:250¡¿User_Case:9
+
+¡¾2021-01-28 10:52:05:752¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:52:28:252¡¿User_Case:9
+
+¡¾2021-01-28 10:52:28:748¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:53:07:376¡¿User_Case:9
+PIR_Rise=39227
+
+¡¾2021-01-28 10:53:07:889¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:08:392¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:08:876¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:09:392¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:09:892¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:10:384¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:10:880¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:11:391¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:11:907¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:39232
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:53:13:001¡¿SPI_Handshake_Done 1
+ActionFlag_Done 138920
+
+POWER_UP_DSP
+
+¡¾2021-01-28 10:53:13:632¡¿JPGPub jpeg_all :31733  31733
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:53:13:738¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+Send_JPEG_DonTCP_Task:66_1 
+NetAPP_ACK:66_1
+e 0 1396TCP_Task:66_1 
+NetAPP_ACK:66_1
+83
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+PowerOFF_DSP
+ShutDown(JPG_Send)
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:53:13:843¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:53:13:948¡¿TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+TCP_Task:66_1 
+NetAPP_ACK:66_1
+
+¡¾2021-01-28 10:53:33:586¡¿User_Case:9
+
+¡¾2021-01-28 10:53:34:098¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:53:34:594¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:53:44:367¡¿User_Case:9
+
+¡¾2021-01-28 10:53:44:860¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:53:57:859¡¿TCP_Task:0_0 
+
+¡¾2021-01-28 10:54:09:328¡¿User_Case:9
+
+¡¾2021-01-28 10:54:09:812¡¿User_Case:11
+User_Case:12
+
+¡¾2021-01-28 10:54:20:484¡¿User_Case:9
+PIR_Rise=39301
+
+¡¾2021-01-28 10:54:21:000¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:21:500¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:21:984¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:22:486¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:22:996¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:23:500¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:23:984¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:24:484¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:25:000¡¿User_Case:11
+User_Case:9
+
+¡¾2021-01-28 10:54:25:504¡¿User_Case:11
+User_Case:9
+PIR_Catch_REC:39306
+User_Case:12
+User_Case:2
+TCP_Task:63_0 
+NetAPP_ACK:63_0
+
+¡¾2021-01-28 10:54:26:594¡¿SPI_Handshake_Done 1
+ActionFlag_Done 140990
+
+POWER_UP_DSP
+
